@@ -1,0 +1,61 @@
+From dame_eugene at mail.ru  Tue Dec  7 21:47:57 2010
+From: dame_eugene at mail.ru (Eugene Shatokhin)
+Date: Tue, 07 Dec 2010 23:47:57 +0300
+Subject: [Kedr-announce] kedr_leak_check 0.1.1
+Message-ID: <4CFE9D7D.6030705@mail.ru>
+
+Hello,
+
+kedr_leak_check version 0.1.1 has been released.
+
+As its name implies, "kedr_leak_check" is a KEDR-based tool to check kernel 
+modules for memory leaks. Unlike call monitoring facilities provided by KEDR, 
+this tool does not use trace or anything like that. It silently analyzes the 
+calls to more than 20 memory allocation and deallocation functions and uses 
+files in debugfs to display the results: the adresses and lengths of the 
+leaked memory blocks along with the stack traces of appropriate allocation calls.
+
+See Readme.txt included in the archive with "kedr_leak_check" for details.
+
+Download "kedr_leak_check" here: 
+http://prdownload.berlios.de/kedr/kedr_leak_check-0.1.1.tar.bz2
+
+Regards,
+Eugene
+
+
+From dame_eugene at mail.ru  Fri Dec 24 14:44:55 2010
+From: dame_eugene at mail.ru (Eugene A. Shatokhin)
+Date: Fri, 24 Dec 2010 16:44:55 +0300
+Subject: [Kedr-announce] =?koi8-r?b?a2Vkcl9sZWFrX2NoZWNrIDAuMS4y?=
+Message-ID: <E1PW7x1-0000zi-00.dame_eugene-mail-ru@f153.mail.ru>
+
+
+Hello,
+
+kedr_leak_check version 0.1.2 has been released. 
+
+As its name implies, "kedr_leak_check" is a KEDR-based tool to check kernel  modules for memory leaks. Unlike call monitoring facilities provided by KEDR, this tool does not use trace or anything like that. It silently analyzes the calls to more than 25 memory allocation and deallocation functions and uses files in debugfs to display the results: the adresses and lengths of the leaked memory blocks along with the stack traces of appropriate allocation calls.
+
+See Readme.txt included in the archive with "kedr_leak_check" for details.
+
+This is a maintenance release. 
+
+Enhancements:
+- This version allows to intercept 6 more allocation and deallocation functions including those to which the calls to alloc_page*() unfold.
+
+Problems fixed:
+- kmalloc(0, ...) is now handled properly; calling kfree() for ZERO_SIZE_PTR is no longer reported as an error.
+- Cosmetic fixes.
+
+Download "kedr_leak_check" here: 
+http://prdownload.berlios.de/kedr/kedr_leak_check-0.1.2.tar.bz2
+
+Regards,
+Eugene
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/kedr-announce/attachments/20101224/d25310dc/attachment.html>
+

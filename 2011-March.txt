@@ -1,0 +1,35 @@
+From dame_eugene at mail.ru  Wed Mar  2 11:59:21 2011
+From: dame_eugene at mail.ru (Eugene A. Shatokhin)
+Date: Wed, 02 Mar 2011 13:59:21 +0300
+Subject: [Kedr-announce] KEDR 0.2
+Message-ID: <E1Pujm5-00016K-00.dame_eugene-mail-ru@f223.mail.ru>
+
+Hello,
+
+KEDR 0.2 has been released. 
+You can get it here: http://prdownload.berlios.de/kedr/kedr-0.2.tar.bz2
+
+This release provides several enhancements and various fixes compared 
+to version 0.1. Most significant changes:
+
+    * Tracing subsystem has been completely rewritten to be more versatile and reliable even on SMP systems.
+
+    * A memory leak detector (LeakCheck) has been implemented.
+
+    * It is now possible to restrict fault simulation to particular areas in the target module (if the kernel provides reliable stack traces).
+
+    * Several fixes have been made for KEDR to be able to work on the versions 2.6.37 and 2.6.38 of the kernel.
+
+    * Call monitoring for 20 more functions is now supported. Support for fault simulation for many of these functions as well as for vmalloc() group has also been provided.
+
+    * The issues concerning parallel builds (bug #017731) have been fixed.
+
+See ChangeLog for detailed information about the changes in this version.  
+
+Project home page: http://kedr.berlios.de/
+
+Regards,
+Eugene
+
+
+

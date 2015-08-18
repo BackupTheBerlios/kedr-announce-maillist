@@ -1,0 +1,24 @@
+From dame_eugene at mail.ru  Wed Apr 13 15:33:23 2011
+From: dame_eugene at mail.ru (Eugene A. Shatokhin)
+Date: Wed, 13 Apr 2011 17:33:23 +0400
+Subject: [Kedr-announce] KEDR 0.2.1
+Message-ID: <E1QA0CB-0003OV-00.dame_eugene-mail-ru@f203.mail.ru>
+
+Hello,
+
+ KEDR 0.2.1 has been released. 
+ You can get it here: http://prdownload.berlios.de/kedr/kedr-0.2.1.tar.bz2
+
+The most significant change in this release is the enhancement of build system. It is now possible to build KEDR for a kernel different from the
+one running on the build machine. It is also possible to build it for a different system (e.g. for Chromium OS, x86-generic). 
+
+The usage instructions are available in KEDR Wiki:
+http://openfacts2.berlios.de/wikien/index.php/BerliosProject:KEDR
+
+See ChangeLog for detailed information about the changes in this version.
+
+ Project home page: http://kedr.berlios.de/
+
+ Regards,
+ Eugene
+

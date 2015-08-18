@@ -1,0 +1,81 @@
+From dame_eugene at mail.ru  Fri Dec 16 09:50:23 2011
+From: dame_eugene at mail.ru (=?UTF-8?B?RXVnZW5lIEEuIFNoYXRva2hpbg==?=)
+Date: Fri, 16 Dec 2011 12:50:23 +0400
+Subject: [Kedr-announce] =?utf-8?q?=5BFollow-up=5D_KEDR_at_GoogleCode?=
+Message-ID: <E1RbTUl-0007dV-00.dame_eugene-mail-ru@f284.mail.ru>
+
+A quick follow-up to my previous message, may be obvious, but still.
+
+It is not required to join "kedr-discuss" Google group to be able to read the discussions in it. But if you would like to post your messages there, you need to join. Posting is currently allowed only for the members of the group to avoid spam.
+
+If you have an accout at Gmail, It is easy to join "kedr-discuss", just go to http://groups.google.com/group/kedr-discuss, click "Join this group" link. If you do not have a Gmail/Google account yet, you can create one.
+
+Regards,
+Eugene
+
+From dame_eugene at mail.ru  Fri Dec 16 09:53:46 2011
+From: dame_eugene at mail.ru (=?UTF-8?B?RXVnZW5lIEEuIFNoYXRva2hpbg==?=)
+Date: Fri, 16 Dec 2011 12:53:46 +0400
+Subject: [Kedr-announce] =?utf-8?q?KEDR_at_GoogleCode?=
+Message-ID: <E1RbTY2-0001jU-00.dame_eugene-mail-ru@f156.mail.ru>
+
+Hello,
+
+When the rumors started that BerliOS Developer could close in 2012, I created a project for KEDR at GoogleCode. Here it is:
+http://code.google.com/p/kedr/
+
+Fortunately, BerliOS Developer seems to have received support these days and the project hosting will continue working. A good news indeed!
+See http://developer.berlios.de/forum/forum.php?forum_id=37533
+
+I plan to maintain both project sites for KEDR. The project site at GoogleCode is going to be the main one.
+
+The site at BerliOS Developer will continue hosting the source code repository for KEDR as well as up-to-date downloads and online documentation (except Wiki, may be).
+
+As far as the bug tracker and the mailing lists are concerned, please use the project site at GoogleCode. To avoid duplication, I would like to disable the corresponding facilities at the project site at BerliOS Developer.
+
+For bug reports and feature requests, please use the following tracker: http://code.google.com/p/kedr/issues/
+
+Mailing list (Google Group) for the discussion of KEDR, announcements, help and support requests, etc.:
+     http://groups.google.com/group/kedr-discuss
+In particular, If you would like to ask a question about KEDR framework, "kedr-discuss" is the list you need.
+
+There is also a Google Group where technical data about the project updates is sent (notifications about code commits, messages from the issue tracker, etc.):
+     http://groups.google.com/group/kedr-devel-updates
+This list is intended for KEDR developers and maintainers. It is probably of little interest to the rest.
+
+Regards,
+Eugene
+
+From dame_eugene at mail.ru  Fri Dec 16 09:11:32 2011
+From: dame_eugene at mail.ru (=?UTF-8?B?RXVnZW5lIEEuIFNoYXRva2hpbg==?=)
+Date: Fri, 16 Dec 2011 12:11:32 +0400
+Subject: [Kedr-announce] =?utf-8?q?KEDR_at_GoogleCode?=
+Message-ID: <E1RbStA-0005cz-00.dame_eugene-mail-ru@f295.mail.ru>
+
+Hello,
+
+When the rumors started that BerliOS Developer could close in 2012, I created a project for KEDR at GoogleCode. Here it is:
+http://code.google.com/p/kedr/
+
+Fortunately, BerliOS Developer seems to have received support these days and the project hosting will continue working. A good news indeed! 
+See http://developer.berlios.de/forum/forum.php?forum_id=37533
+
+I plan to maintain both project sites for KEDR. The project site at GoogleCode is going to be the main one. 
+
+The site at BerliOS Developer will continue hosting the source code repository for KEDR as well as up-to-date downloads and online documentation (except Wiki, may be). 
+
+As far as the bug tracker and the mailing lists are concerned, please use the project site at GoogleCode. To avoid duplication, I would like to disable the corresponding facilities at the project site at BerliOS Developer.
+
+For bug reports and feature requests, please use the following tracker: http://code.google.com/p/kedr/issues/
+
+Mailing list (Google Group) for the discussion of KEDR, announcements, help and support requests, etc.:
+     http://groups.google.com/group/kedr-discuss
+In particular, If you would like to ask a question about KEDR framework, "kedr-discuss" is the list you need.
+
+There is also a Google Group where technical data about the project updates is sent (notifications about code commits, messages from the issue tracker, etc.):
+     http://groups.google.com/group/kedr-devel-updates
+This list is intended for KEDR developers and maintainers. It is probably of little interest to the rest.
+
+Regards,
+Eugene
+
